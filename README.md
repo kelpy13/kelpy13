@@ -5,4 +5,4 @@ Connext, Forta, Sui, Aleo, Aptos, Kyve, BlockPi, Stride, Sei, BlockPi, Massa, Mi
 GitHub https://github.com/kelpy13/ <br>
 Twitter https://twitter.com/kelpiees <br>
 TG https://t.me/kelpiess <br>
-Discord kelpie#6645 <br>
+Discord ke1pie <br>
