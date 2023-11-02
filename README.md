@@ -1,5 +1,5 @@
 <b>My current Testnet validators </b> <br>
-Connext, Forta, Sui, Aleo, Aptos, Kyve, BlockPi, Stride, Sei, BlockPi, Massa, Minima, etc  </b>
+Namada, Connext, Forta, Sui, Aleo, Aptos, Kyve, BlockPi, Stride, Sei, BlockPi, Massa, Minima, etc  </b>
 
 <b> Socials: </b> <br>
 GitHub https://github.com/kelpy13/ <br>
