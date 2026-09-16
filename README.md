@@ -1,4 +1,4 @@
-<b> Avaible for work </b> <br>  </b>
+<b> Available for work </b> <br>  </b>
 
 <b> Socials: </b> <br>
 GitHub https://github.com/kelpy13/ <br>
